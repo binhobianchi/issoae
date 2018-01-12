@@ -1,0 +1,44 @@
+.coluna{
+	padding-bottom: 25%;
+	height: 55px;
+	background-color: #949494;
+	text-align: center;
+	margin-top: 7%;
+}
+
+.espacamento{
+	margin-bottom: 10%;
+}
+
+#bt{
+	height: 55px;
+}
+
+.dual{
+	margin-top: 55px;
+}
+
+.footer{
+	padding-bottom: 25%;
+	height: 55px;
+	background-color: #949474;
+	text-align: center;
+	margin-top: 7%;
+}
+
+.prin{
+	padding-bottom: 25%;
+	height: 55px;
+	background-color: #947474;
+	text-align: center;
+	margin-top: 7%;
+}
+
+.esporte{
+	padding-top: 70px;
+	padding-left: 300px;
+}
+
+.meio{
+	text-align: center;
+}
